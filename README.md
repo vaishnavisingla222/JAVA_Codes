@@ -1,4 +1,4 @@
-#DSA in JAVA
+# DSA_JAVA
 
 Welcome to my Java Learning Repository!
 This collection contains all the Java programs, exercises, and practice questions I solved while understanding Data Structures and Algorithms in Java.
